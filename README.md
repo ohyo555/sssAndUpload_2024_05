@@ -10,6 +10,6 @@
 <br>
 <br>
 
-![image](https://github.com/ohyo555/sssAndUpload_2024_05/assets/153146836/15940922-9de9-48d0-bb85-a612479d7e35) [kakao 로그인 버튼]
+![image](https://github.com/ohyo555/sssAndUpload_2024_05/assets/153146836/2b29a064-d06f-4da1-b6d3-9498bfd4084b)
 
 ![image](https://github.com/ohyo555/sssAndUpload_2024_05/assets/153146836/1787e53f-70a2-4031-8577-32ac6ca0b57c) [kakao 로그인 정보]
